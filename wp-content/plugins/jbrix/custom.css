@@ -1,0 +1,245 @@
+/*!
+ * jBrix (http://jbrix.co.kr)
+ * Copyright 2011-2015 jBrix, Inc.
+ */
+
+
+@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+
+
+.wpb_button, .wpb_content_element, ul.wpb_thumbnails-fluid > li {
+    margin-bottom: 0px !important;
+}
+p, ul, ol, dl, table, fieldset, blockquote, pre, code {
+    margin-bottom: 0px !important;
+}
+
+
+.main_txt01 {
+	font-size: 16px;
+	color: #444444;
+	font-weight: 500;
+	line-height: 25px;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+.main_sub_tit {
+	font-size: 18px;
+	color: #222222;
+	font-weight: 400;
+	line-height: 25px;
+	text-align: center;
+	padding: 15px 5px 15px 5px;
+}
+.main_sub_txt {
+	font-size: 14px;
+	color: #666666;
+	font-weight: 400;
+	line-height: 22px;
+}
+.main_sub_txt02 {
+	font-size: 14px;
+	color: #666666;
+	font-weight: 400;
+	line-height: 22px;
+	text-align: center;
+}
+.main_sub_bgtit {
+	font-size: 26px;
+	color: #ffffff;
+	font-weight: 700;
+	line-height: 32px;
+	text-align: center;
+	padding-top: 450px;
+}
+.main_sub_bgtit span {
+	font-style: italic;
+}
+.main_sub_bgtxt {
+	font-size: 16px;
+	color: #ffffff;
+	font-weight: 400;
+	line-height: 22px;
+	text-align: center;
+	padding: 20px 5px 40px 5px;
+}
+.main_sub_avtit {
+	font-size: 18px;
+	color: #000000;
+	font-weight: 400;
+	line-height: 25px;
+	text-align: center;
+	padding: 20px 0px 20px 0px;
+}
+.main_sub_mytit {
+	font-size: 22px;
+	color: #ca4332;
+	font-weight: 400;
+	line-height: 25px;
+	text-align: center;
+	padding-top: 20px;
+}
+.main_sub_mytit span {
+	font-style: italic;
+}
+.main_sub_mytxt {
+	font-size: 16px;
+	color: #666666;
+	font-weight: 400;
+	line-height: 25px;
+	text-align: center;
+	padding: 20px 0px 30px 0px;
+}
+.main_sub_sctxt {
+	font-size: 16px;
+	color: #444444;
+	font-weight: 400;
+	line-height: 22px;
+	text-align: center;
+	padding: 30px 0px 30px 0px;
+}
+.main_sub_tatit {
+	font-size: 26px;
+	color: #111111;
+	font-weight: 700;
+	line-height: 32px;
+	text-align: center;
+	padding: 100px 0px 40px 0px;
+}
+.main_sub_tatit02 {
+	font-size: 26px;
+	color: #fff;
+	font-weight: 700;
+	line-height: 32px;
+	text-align: center;
+	padding: 100px 0px 40px 0px;
+}
+.main_sub_tatit03 {
+	font-size: 26px;
+	color: #111111;
+	font-weight: 700;
+	line-height: 32px;
+	text-align: center;
+	padding: 50px 0px 40px 0px;
+}
+.main_sub_tatxt {
+	font-size: 15px;
+	color: #111111;
+	font-weight: 500;
+	line-height: 25px;
+	text-align: center;
+	padding: 20px 0px 40px 0px;
+}
+.main_pro01 {
+	font-size: 16px;
+	color: #666666;
+	font-weight: 400;
+	line-height: 24px;
+	text-align: center;
+	padding: 25px 10px 15px 10px;
+}
+.main_pro01_sub1 {
+	color:#04ade7;
+}
+.main_pro01_sub2 {
+	color:#ffc22e;
+}
+.main_pro02 {
+	font-size: 16px;
+	color: #b18a5e;
+	font-weight: 400;
+	line-height: 24px;
+	text-align: center;
+	padding: 5px 10px 30px 10px;
+}
+.main_pro03 {
+	font-size: 16px;
+	color: #b18a5e;
+	font-weight: 400;
+	line-height: 24px;
+	text-align: center;
+	padding: 15px 10px 30px 10px;
+}
+.main_pro04_row {
+	width: 100%;
+	max-width: 950px;
+	margin: 0 auto;
+}
+.main_pro04_img {
+	clear: both;
+	float: left;
+	margin-right: 10px;
+	width: 30px;
+}
+.main_pro04 {
+	width: 90%;
+	float: left;
+	font-size: 15px;
+	color: #777777;
+	font-weight: 400;
+	line-height: 20px;
+	margin-bottom: 10px;
+	padding-top: 5px;
+}
+.main_pro04::after {
+	content: "";
+	clear: both;
+}
+.main_pro04_sub {
+	color: #444444;
+}
+
+
+
+.footer_copy_l {
+	clear: both;
+	float: left;
+}
+.footer_copy_r a {
+	color: #eaeaea;
+}
+.footer_copy_r {	
+	float: right;
+	font-size: 12px;
+	color: #eaeaea;
+	font-weight: 500;
+	line-height: 22px;
+	text-align: right;
+}
+.footer_copy_r::after {
+	content: "";
+	clear: both;
+}
+.hide_row {
+display: none;
+}
+
+.clear_row {
+	clear: both;
+}
+
+
+.main_slide_tit {
+	font-size: 40px;
+	color: #fff;
+	font-weight: 700;
+	line-height: 40px;
+}
+.main_slide_txt {
+	font-size: 23px;
+	color: #fff;
+	font-weight: 500;
+	line-height: 30px;
+	margin-top: 30px;
+}
+
+.main_input_box {
+	margin-top: 5px !important;
+}
+
+
+
+.mk-footer-copyright {
+	width: 100% !important;
+}
